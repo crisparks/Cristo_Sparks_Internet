@@ -1,0 +1,207 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#wrapper{
+    width: 930px;
+    margin: auto;
+}
+#header{
+    width: 930px;
+    height: auto;
+    vertical-align: top;
+    display: inline-block;
+}
+#header img{
+    width: 90px;
+    position: absolute;
+}
+#header h1{
+    color: slategray;
+    font-size: 48px;
+    font-weight: normal;
+    margin: 20px 0px 0px 95px
+}
+#header h2{
+    font-size: 32px;
+    color: white;
+    background-color: royalblue;
+    padding: 10px;
+    font-weight: normal;
+    display: block;
+}
+#mainbody{
+    width: 930px;
+    height: auto;
+    vertical-align: top;
+    display: inline-block;
+}
+.leftbox{
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+}
+.left1{
+    font-weight: bold;
+    font-size: 16px;
+    margin: 20px 0px 10px 0px;
+}
+.left2{
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.button{
+    width: 195px;
+    height: 30px;
+    border: black 1px solid;
+    padding-top: 7px;
+    border-radius: 5px;
+    margin-top: 3px;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    box-shadow:2px 2px slategray;
+}
+.ninja{
+    width: 200px;
+    height: 280px;
+    background-image: url("images/ad_background.png");
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 25px;
+}
+.ninja p{
+    color: white;
+    font-size: 24px;
+}
+.ninja img{
+    width: 85px;
+    margin-bottom: 5px;
+}
+.button.light_blue{
+    background-color: lightblue;
+    font-size: 18px;
+    width: 170px;
+    height: 30px;
+    margin-left: 15px;
+    padding-top: 5px;
+    box-shadow: none;
+}
+.arrows{
+    font-size: 10px;
+}
+.rightbox{
+    width: 675px;
+    display: inline-block;
+    margin-left: 30px;
+}
+.rightbox .home{
+    width: 20px;
+    vertical-align: top;
+    margin-top: 7px;
+}
+.rightbox p{
+    display: inline-block;
+    vertical-align: top
+}
+.rightbox .thin_blue{
+    color: navy;
+    font-size: 15px;
+    margin-right: 410px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.rightbox .phone{
+    width: 40px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.rightbox .contact_info{
+    width: 140px;
+    height: 65px;
+    text-align: center;
+    font-size: 10px;
+    display: inline-block;
+}
+.phone_number{
+    font-size: 24px;
+    font-weight: bold;
+    color: cyan;
+}
+.rightbox p{
+    font-size: 14px;
+}
+.rightbox li{
+    font-size: 14px;
+    margin-top: 5px;
+}
+.rightbox ul{
+    margin-left: 40px;
+}
+.rightbox ol{
+    margin-left: 40px;
+}
+.client_server{
+    width: 250px;
+    margin: 20px 0px 10px 200px;
+}
+#footer{
+    height: 110px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 5px 5px 0px 5px;
+    padding: 10px 0px 0px 10px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+.html_icon{
+    width: 110px;
+    display: inline-block;
+}
+.footer_text{
+    width: 522px;
+    display: inline-block;
+    vertical-align: top;
+}
+#footer h3{
+    display: inline-block;
+    width: 320px;
+    vertical-align: top;
+    margin-top: 0px;
+}
+#footer p{
+    display: inline-block;
+    width: 520px;
+    vertical-align: top;
+    margin-bottom: 5px;
+}
+h3{
+    color: blue;
+    margin: 7px 0px;
+}
+.blue_text{
+    color: cornflowerblue;
+}
+.highlights{
+    color: aqua;
+}
+.red_text{
+    color: red;
+}
+.blue{
+    background: blue;
+}
+.orange{
+    background: orange;
+    margin-bottom: 30px;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
